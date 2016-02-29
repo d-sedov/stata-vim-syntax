@@ -1,4 +1,4 @@
-# Enhanced and updated Stata syntax hilghlighting 
+# Enhanced and updated Stata syntax highlighting 
 
 ![ScreenShot](https://github.com/zizhongyan/stata-vim-syntax/blob/master/screenshots/Screen.Shot.2015-12-22.at.14.04.45.png)
 
