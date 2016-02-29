@@ -1,12 +1,13 @@
-# stata-vim-syntax
-Enhanced and updated Stata syntax hilghlighting 
- 
+# Enhanced and updated Stata syntax hilghlighting 
+
+![ScreenShot](https://github.com/zizhongyan/stata-vim-syntax/blob/master/screenshots/Screen.Shot.2015-12-22.at.14.04.45.png)
+
 ## Vim syntax file for Stata source files  
 
-This is an enhanced and updated Stata syntax hilghlighting file. It is a modification version to the Stata/Mata syntax highlighting file by Jeff Pitblado (2015) . 
+This is an enhanced and updated Stata syntax hilghlighting file. It is a modification version to the Stata/Mata syntax highlighting file by Jeff Pitblado. 
 
 ## Features  
-The file could further highlight 
+The file could further highlight:
 
 1. most of the Stata in-built commands, 
 
@@ -29,6 +30,13 @@ It is working under both Windows and Unix/Linux platforms
 ## Also looking for running Stata in the Vim ? 
  
 If you want to RUN THE STATA in VIM editor, please refer to \"another Github webpage at https://github.com/zizhongyan/vim-stata/\". 
+
+## More screenshots under different themes.
+![ScreenShot](https://github.com/zizhongyan/stata-vim-syntax/blob/master/screenshots/Screen.Shot.2015-12-22.at.14.01.27.png)
+![ScreenShot](https://github.com/zizhongyan/stata-vim-syntax/blob/master/screenshots/Screen.Shot.2015-12-22.at.14.02.01.png)
+![ScreenShot](https://github.com/zizhongyan/stata-vim-syntax/blob/master/screenshots/Screen.Shot.2015-12-22.at.14.02.29.png)
+![ScreenShot](https://github.com/zizhongyan/stata-vim-syntax/blob/master/screenshots/Screen.Shot.2015-12-22.at.14.03.49.png)
+
 
 ## To keep it updated 
  
