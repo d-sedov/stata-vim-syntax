@@ -29,7 +29,7 @@ It is working under both Windows and Unix/Linux platforms
 
 ## Also looking for running Stata in the Vim ? 
  
-If you want to RUN THE STATA in VIM editor, please refer to \"another Github webpage at https://github.com/zizhongyan/vim-stata/\". 
+If you want to RUN THE STATA in VIM editor, please refer to \another Github webpage at https://github.com/zizhongyan/vim-stata/ \. 
 
 ## More screenshots under different themes.
 ![ScreenShot](https://github.com/zizhongyan/stata-vim-syntax/blob/master/screenshots/Screen.Shot.2015-12-22.at.14.01.27.png)
